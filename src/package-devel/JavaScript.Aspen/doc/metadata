@@ -1,0 +1,16 @@
+{
+    "package" : "JavaScript.Aspen",
+        "version" : "0.1",
+        "status"  : "develop",
+        "platform"  : "JS",
+        "dependency package" : [
+            {
+                "package" : "JavaScript.Object",
+                "version" : "1.0",
+            },
+			{
+				"pavkage" : "Syntax.Null",
+				"version" : "1.0",
+			}
+        ]
+}
