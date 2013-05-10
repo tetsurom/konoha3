@@ -1,5 +1,8 @@
 import("Syntax.Null");
+import("Syntax.GlobalVariable");
 import("JavaStyle.Object");
+
+AllowImplicitGlobalVariable(true);
 
 void printf(String format){};
 void printf(String format, Object v1){};
